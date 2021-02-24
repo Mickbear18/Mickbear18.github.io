@@ -105,3 +105,19 @@ h1 {
   .point {
       vertical-align: top;
   }
+
+
+  .task3 {
+    width: 150px;
+    height: 25px;
+    background-color:rgb(26, 95, 246);
+    color: white; 
+    border: 3px solid rgb(26, 95, 246) ;
+
+  }
+
+
+
+   a {
+    text-decoration: none;
+  }
